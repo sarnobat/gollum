@@ -1,3 +1,3 @@
-bundle exec bin/gollum
+bundle exec bin/gollum --page-file-dir /Users/ssarnobat/sarnobat.git/mwk
 
-open "http://localhost:4567/"
+#open "http://localhost:4567/"
